@@ -1,7 +1,7 @@
 #Mr. Stickman Races for the Exit#
 
 This is a python game modified from the book
-(Python for Kids)[https://www.nostarch.com/pythonforkids]
+[Python for Kids](https://www.nostarch.com/pythonforkids)
 by Jason R. Briggs.
 
 --------------
